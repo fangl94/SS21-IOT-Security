@@ -69,9 +69,9 @@ T0 + 3 weeks: 05.05.2021 Midterm Presentation -- （Tentative Structure and Refe
 
 T0 + 7 weeks : 02.06.2021 deadline to submit alpha version of the report (Complete the structure and try to finish 50%）
 
-T0 + 11 weeks : 30.06.2021 deadline to submit final version of the report   
+T0 + 11 weeks : 30.06.2021 deadline to submit final version of the report   
 
-T0 + 12 weeks : 07.07.2021 Final presentation.
+T0 + 12 weeks : 07.07.2021 Final presentation.
 
 
 ## Currently Status
