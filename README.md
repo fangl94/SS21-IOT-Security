@@ -1,20 +1,30 @@
 # SS21-IOT-Security
 ### This is to record the process of doing this seminar.
 
-## Schedule
-    T0 = 14.04.2021 at 10am sharp: Introductory session, (visio) presence is mandatory
+### Topic selection: IoT Botnet
+#### Title: The Research on IoT Botnet -- Use Mirai Botnet as an Example
 
-    T0 + 1 week : deadline for topic selection(before 21.04.2021)
+### Tentative Structure
+![Tentative Structure](https://github.com/fangl94/SS21-IOT-Security/blob/main/Midterm-Presentation/Presentation/images/tantative-structure.png)
 
-    T0 + 3 weeks : deadline to submit tentative outline for the report and preliminary presentation (visio) presence is 
-    mandatory (tentative date 05.05.2021 at 10am)
+### Reference
 
 
-    T0 + 7 weeks : deadline to submit alpha version of the report
 
-    T0 + 11 weeks : deadline to submit final version of the report   
+## Tentative Schedule
 
-    T0 + 12 weeks : final presentation (online) presence is mandatory, (tentative date: 10.02.2021 at 10am)
+T0 = 14.04.2021 Introductory session
+
+T0 + 1 week : 21.04.2021 Topic selection
+
+T0 + 3 weeks: 05.05.2021 Midterm Presentation -- （Tentative Structure and Reference)
+
+T0 + 7 weeks : 02.06.2021 deadline to submit alpha version of the report (Complete the structure and try to finish 50%）
+
+T0 + 11 weeks : 30.06.2021 deadline to submit final version of the report   
+
+T0 + 12 weeks : 07.07.2021 Final presentation.
+
 
 ## Currently Status
     Topic choosing completed, waiting for the feedback.
