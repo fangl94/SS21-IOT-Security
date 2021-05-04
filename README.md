@@ -75,4 +75,4 @@ T0 + 7 weeks : 02.06.2021 deadline to submit alpha version of the report (Comple
 
 
 ## Currently Status
-    Topic choosing completed, waiting for the feedback.
+   Prepared for the midterm presentation, after the pre. I will start to write.
